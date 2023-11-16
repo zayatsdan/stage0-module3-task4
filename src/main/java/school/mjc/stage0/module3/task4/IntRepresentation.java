@@ -10,6 +10,6 @@ public class IntRepresentation {
         int h=(int)x;
         int a=(int)y;
         int r=(int)v;
-        System.out.println(c + "\n" +h + "\n"+a + "\n"+r);
+        System.out.println(c + h + a + r);
     }
 }
