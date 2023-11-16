@@ -14,5 +14,4 @@ public class IntRepresentation {
 
         System.out.println(intRepresentation1 + " " + intRepresentation2 + " " + intRepresentation3 + " " + intRepresentation4);
     }
-    }
 }
